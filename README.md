@@ -6,7 +6,7 @@ This project aims to segment customers of a retail store using K-means clusterin
 
 **Files
 -------------------------------------------------------------------------------------------------------------------------------
-.customer_data.csv: CSV file containing the customer data.
+.Mall_Customer.csv: CSV file containing the customer data.
 
 .customer_segmentation.ipynb: Jupyter Notebook containing the Python code for data analysis and clustering.
 
